@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Diana Lease! 👋 
+
+💻&nbsp;&nbsp;I write code (and more!) at [Clause](clause.io).
+
+👩🏼‍⚖️&nbsp;&nbsp;I submit PRs, review PRs, and join in weekly tech chats at the [Accord Project](https://github.com/accordproject).
 
 <!--
 **DianaLease/DianaLease** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
