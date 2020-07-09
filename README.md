@@ -1,6 +1,6 @@
 ### Hi, I'm Diana Lease! 👋 
 
-💻&nbsp;&nbsp;I write code (and more!) at [Clause](clause.io).
+💻&nbsp;&nbsp;I write code (and more!) at [Clause](https://clause.io/).
 
 👩🏼‍⚖️&nbsp;&nbsp;I submit PRs, review PRs, and join in weekly tech chats at the [Accord Project](https://github.com/accordproject).
 
