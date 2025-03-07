@@ -1,8 +1,8 @@
 ### Hi, I'm Diana Lease! 👋 
 
-💻&nbsp;&nbsp;I write code (and more!) at [DocuSign](https://www.docusign.com/).
+💻&nbsp;&nbsp;I write code (and more!) at [Docusign](https://www.docusign.com/) as a Senior Software Engineer.
 
-👩🏼‍⚖️&nbsp;&nbsp;I submit PRs, review PRs, and engage the open source community at the [Accord Project](https://github.com/accordproject). I am an elected member of the Technical Steering Committee which meets monthly and Chair of the Technology Working Group which meets weekly.
+👩🏼‍⚖️&nbsp;&nbsp;For the past several years, I've been actively involved in open source software at the [Accord Project](https://accordproject.org/) as both a contributor and maintainer. I am an elected member of the Technical Steering Committee which meets monthly and Chair of the Technology Working Group which meets weekly.
 
 <!--
 **DianaLease/DianaLease** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
